@@ -6,7 +6,7 @@ scroll-behavior:smooth;
 /* Global Styling */
 
 body{
-    font-family: Arial, sans-serif;
+    font-family: 'Ubuntu Mono', monospace;
     margin:0;
     padding:0;
     background:#0f172a;
